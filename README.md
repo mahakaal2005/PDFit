@@ -1,5 +1,7 @@
 # 📄 Document Scanner App
 
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.pdfit.scanner)
+
 > Smart. Offline. Ad-Free.  
 > Made for everyday use.
 
